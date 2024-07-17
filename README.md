@@ -10,10 +10,6 @@ ________________________________________________________________________________
 
 
 
-
-
-### GitHub Landing Page Introduction
-
 Hi, I'm Hitaish.
 
 I am immensely passionate about deep learning and machine learning. Currently, I am pursuing my B.Tech degree in Artificial Intelligence and Data Science from REVA University, India. My passion lies in learning and building innovative models in deep learning. I take great care in designing robust and efficient models, always aiming for excellence in model performance and user experience.
