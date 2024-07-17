@@ -32,7 +32,7 @@ I am immensely passionate about deep learning and machine learning. Currently, I
 
 - 📫 How to reach me **hitaishkg@gmail.com**
 
-- ⚡ Fun fact **I play games
+- ⚡ Fun fact **I play games**
 
 
 ## 🚀 Languages and Tools:
