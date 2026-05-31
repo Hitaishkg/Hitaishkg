@@ -2,7 +2,7 @@
 
 AI/ML Engineer. I build agentic pipelines and production LLM systems.
 
-B.Tech AI & Data Science, REVA University (2025). Open to AI/ML engineering roles - remote (US) and Bangalore.
+B.Tech AI & Data Science, REVA University (2025). Open to AI/ML engineering roles - remote and Bangalore.
 
 ---
 
